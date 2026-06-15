@@ -29,12 +29,95 @@ def norm_score(s):
     return re.sub(r"[^A-Z0-9]", "", m.group(0).upper())
 
 
+# Canonical book key: every common spelling/abbreviation of a book collapses to
+# one unique key, so a full name ("Genesis") matches its abbreviation ("Gen") and
+# near-twins stay distinct (Judges=jdg vs Jude=jud; Philippians=php vs Philemon=phm).
+_BOOK_CANON = {
+    "genesis": "gen", "gen": "gen", "ge": "gen",
+    "exodus": "exo", "exod": "exo", "exo": "exo", "ex": "exo",
+    "leviticus": "lev", "lev": "lev", "lv": "lev",
+    "numbers": "num", "num": "num", "nu": "num",
+    "deuteronomy": "deu", "deut": "deu", "deu": "deu", "dt": "deu",
+    "joshua": "jos", "josh": "jos", "jos": "jos",
+    "judges": "jdg", "judg": "jdg", "jdg": "jdg",
+    "ruth": "rut", "rut": "rut", "ru": "rut",
+    "1samuel": "1sa", "1sam": "1sa", "1sa": "1sa",
+    "2samuel": "2sa", "2sam": "2sa", "2sa": "2sa",
+    "1kings": "1ki", "1kgs": "1ki", "1ki": "1ki",
+    "2kings": "2ki", "2kgs": "2ki", "2ki": "2ki",
+    "1chronicles": "1ch", "1chron": "1ch", "1chr": "1ch", "1ch": "1ch",
+    "2chronicles": "2ch", "2chron": "2ch", "2chr": "2ch", "2ch": "2ch",
+    "ezra": "ezr", "ezr": "ezr",
+    "nehemiah": "neh", "neh": "neh",
+    "esther": "est", "esth": "est", "est": "est",
+    "job": "job",
+    "psalms": "psa", "psalm": "psa", "pss": "psa", "psa": "psa", "ps": "psa",
+    "proverbs": "pro", "prov": "pro", "prv": "pro", "pro": "pro",
+    "ecclesiastes": "ecc", "eccl": "ecc", "ecc": "ecc", "qoh": "ecc",
+    "songofsongs": "sng", "songofsolomon": "sng", "song": "sng", "sng": "sng",
+    "sos": "sng", "canticles": "sng",
+    "isaiah": "isa", "isa": "isa",
+    "jeremiah": "jer", "jer": "jer",
+    "lamentations": "lam", "lam": "lam",
+    "ezekiel": "ezk", "ezek": "ezk", "ezk": "ezk",
+    "daniel": "dan", "dan": "dan",
+    "hosea": "hos", "hos": "hos",
+    "joel": "jol", "jol": "jol",
+    "amos": "amo", "amo": "amo",
+    "obadiah": "oba", "obad": "oba", "oba": "oba",
+    "jonah": "jon", "jon": "jon",
+    "micah": "mic", "mic": "mic",
+    "nahum": "nam", "nah": "nam", "nam": "nam",
+    "habakkuk": "hab", "hab": "hab",
+    "zephaniah": "zep", "zeph": "zep", "zep": "zep",
+    "haggai": "hag", "hag": "hag",
+    "zechariah": "zec", "zech": "zec", "zec": "zec",
+    "malachi": "mal", "mal": "mal",
+    "matthew": "mat", "matt": "mat", "mat": "mat", "mt": "mat",
+    "mark": "mrk", "mrk": "mrk", "mk": "mrk",
+    "luke": "luk", "luk": "luk", "lk": "luk",
+    "john": "jhn", "jhn": "jhn", "jn": "jhn",
+    "acts": "act", "act": "act",
+    "romans": "rom", "rom": "rom",
+    "1corinthians": "1co", "1cor": "1co", "1co": "1co",
+    "2corinthians": "2co", "2cor": "2co", "2co": "2co",
+    "galatians": "gal", "gal": "gal",
+    "ephesians": "eph", "eph": "eph",
+    "philippians": "php", "phil": "php", "php": "php",
+    "colossians": "col", "col": "col",
+    "1thessalonians": "1th", "1thess": "1th", "1th": "1th",
+    "2thessalonians": "2th", "2thess": "2th", "2th": "2th",
+    "1timothy": "1ti", "1tim": "1ti", "1ti": "1ti",
+    "2timothy": "2ti", "2tim": "2ti", "2ti": "2ti",
+    "titus": "tit", "tit": "tit",
+    "philemon": "phm", "phlm": "phm", "phm": "phm",
+    "hebrews": "heb", "heb": "heb",
+    "james": "jas", "jas": "jas",
+    "1peter": "1pe", "1pet": "1pe", "1pe": "1pe",
+    "2peter": "2pe", "2pet": "2pe", "2pe": "2pe",
+    "1john": "1jn", "1jn": "1jn",
+    "2john": "2jn", "2jn": "2jn",
+    "3john": "3jn", "3jn": "3jn",
+    "jude": "jud", "jud": "jud",
+    "revelation": "rev", "rev": "rev", "apocalypse": "rev",
+}
+
+
+def book_key(book):
+    """Collapse any book spelling to its canonical key."""
+    raw = re.sub(r"[^a-z0-9]", "", book.lower())
+    if raw in _BOOK_CANON:
+        return _BOOK_CANON[raw]
+    # Fallback for anything unmapped: leading digit (if any) + first 3 letters.
+    m = re.match(r"(\d)?([a-z]+)", raw)
+    return (m.group(1) or "") + m.group(2)[:3] if m else raw
+
+
 def norm_ref(book, chap, v1, v2):
-    b = re.sub(r"\s", "", book).lower()[:4]
     tail = "%s:%s" % (chap, v1)
     if v2:
         tail += "-" + v2
-    return b + tail
+    return book_key(book) + tail
 
 
 def find_ref(text):
