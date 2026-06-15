@@ -1,0 +1,16 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Claude Code local state (keep shared config: agents, commands, skills, settings.json)
+.claude/projects/
+.claude/history/
+.claude/todos/
+.claude/*.local.json
