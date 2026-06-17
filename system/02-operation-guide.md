@@ -29,7 +29,6 @@ choices:
 - **The long horizon is comparative.** The Bible comes first, but the comparative
   habit is deliberate groundwork for eventually treating other foundational texts
   (the Qur'an and others) the same way.
-
 ---
 
 ## 1. The core idea
@@ -42,11 +41,10 @@ For each unit of the Bible we produce a single **entry** with two halves:
   interpretation across traditions, how the meaning has shifted over time, older
   sources and cross-tradition parallels, cultural influence, and — as the reader's
   payoff — why it matters.
-
-Think of the result as a cross between a modern paraphrase (like *The Message* or
-*The Bible Project* in spirit) and the apparatus of a good study Bible or the
-*Encyclopedia of the Bible and Its Reception* — but in one consistent, readable
-format.
+  Think of the result as a cross between a modern paraphrase (like *The Message* or
+  *The Bible Project* in spirit) and the apparatus of a good study Bible or the
+  *Encyclopedia of the Bible and Its Reception* — but in one consistent, readable
+  format.
 
 ### Two layers: entries and the reference catalogue
 The project runs on two interlocking layers. **This entry layer** produces the deep,
@@ -62,9 +60,8 @@ index layer** — the `R` files — that catalogues and scores the whole field:
 - **`R2` Torah (Jewish framing)** · **`R3` Quran** · **`R4` Hadith** ·
   **`R5` ANE & related sources** — the cross-corpus references the comparative and
   historical fields draw on (the working shelves for personas #4, #5, #13).
-
-Every deep entry carries the same **score line and taxonomy tags** as its `R1` stub,
-so the two layers stay linked and ~1,000 units cross-search consistently.
+  Every deep entry carries the same **score line and taxonomy tags** as its `R1` stub,
+  so the two layers stay linked and ~1,000 units cross-search consistently.
 
 ### How we prioritize what to draft
 Use the `R0` scores to choose and frame work, not to rank importance crudely:
@@ -73,7 +70,6 @@ Use the `R0` scores to choose and frame work, not to rank importance crudely:
 - **High H** is a flag to slow down and frame carefully (the harm block, owned by #11).
 - **A** signals how much the *Is it historical?* field will carry — A0/A1 units lean
   on the symbolic/etiological reading; A3–A5 units invite real evidence discussion.
-
 ---
 
 ## 2. How to break up the Bible
@@ -109,7 +105,7 @@ surface.
 accounts of the crucifixion; Synoptic parallels; Kings vs Chronicles). Default:
 one primary entry that notes the parallels and their differences, rather than
 near-duplicate entries. Decide the lead text per case.
-
+ 
 ---
 
 ## 3. Standing decisions (the conventions that keep us consistent)
@@ -142,28 +138,41 @@ Tanakh orders or divides things differently. → confirm in calibration.
   *The Message*, etc. Paraphrase their sense in your own words instead.
 - Original-language words (Hebrew/Greek) and their transliterations are fine and
   often valuable.
-
-**3.4 Neutrality & multiple traditions.**
-Treat the Bible as a literary, historical, and cultural work and report how it
-has been read, without adjudicating truth claims. For each interpretation, name
-the tradition or school ("In rabbinic tradition…", "Augustine read this as…",
-"Historical critics generally date…"). Always separate four layers:
+  **3.4 Neutrality & multiple traditions.**
+  Treat the Bible as a literary, historical, and cultural work and report how it
+  has been read, without adjudicating truth claims. For each interpretation, name
+  the tradition or school ("In rabbinic tradition…", "Augustine read this as…",
+  "Historical critics generally date…"). Always separate four layers:
 1. what the text says,
 2. traditional faith interpretation(s),
 3. academic / historical-critical scholarship,
 4. later reception and cultural afterlife.
-
-**3.5 Sensitive reception.**
-Some passages carry harmful interpretive histories (the "curse/mark of Cain"
-misused to justify racism and slavery; texts misused against Jewish people, women,
-or LGBTQ+ people). Include these accurately as **reception history**, clearly
-framed as misuse with no basis in the text, never endorsed and never given the
-how-to detail of the harmful argument.
+   **3.5 Sensitive reception.**
+   Some passages carry harmful interpretive histories (the "curse/mark of Cain"
+   misused to justify racism and slavery; texts misused against Jewish people, women,
+   or LGBTQ+ people). Include these accurately as **reception history**, clearly
+   framed as misuse with no basis in the text, never endorsed and never given the
+   how-to detail of the harmful argument.
 
 **3.6 Tone.**
 Warm, clear, confident, never preachy and never sneering. We respect believers
 and skeptics alike. Wonder is welcome; proselytizing and debunking are not.
 
+**3.7 Output & rendering (the reading page).**
+Every finished entry is rendered to a single self-contained, dark, screen-native
+**HTML reading page** — not a PDF, not ad-hoc styling — by running
+`render-entry.py ENTRY.md`. The page's look and behaviour (palette, typography, the
+five-axis score with its per-axis tooltips, the "Click here to see the table of
+contents" disclosure, the gutter section-nav, the mobile and accessibility floor, and
+the embedded subset fonts) are fixed by the **Rendering & Build Spec**, owned by the
+Visual & Front-End Design Reviewer (#15); explanatory charts, maps, and diagrams
+inside a page are built by the Explanatory Graphics & Motion Designer (#18). The
+renderer is structure-driven, so an entry only renders correctly if it follows the
+template's headings and the Score-line format. If the look ever needs to change,
+change the renderer and the spec **together** (and re-render the worked example to
+confirm it still matches) — never restyle one page by hand, or the stories drift
+apart. → confirm in calibration.
+ 
 ---
 
 ## 4. The calibration plan (start small, then scale)
@@ -197,9 +206,8 @@ stress-test the schema across genres and difficulty. Suggested set:
    theological weight)
 10. *(optional)* **1 Corinthians 13** or a passage from **Revelation** (tests
     epistle / apocalyptic — the hardest fits)
-
-If the schema survives all of these, it will survive the rest. Each one that
-*doesn't* fit teaches us a schema fix.
+    If the schema survives all of these, it will survive the rest. Each one that
+    *doesn't* fit teaches us a schema fix.
 
 **Phase 3 — Lock the spec & build the full index.** Freeze the template. Expand
 `Story Index` into the complete list of units for the whole canon, book by book.
@@ -211,7 +219,7 @@ books → prophets → wisdom/poetry → epistles → Revelation. Batch, then QA
 **Ongoing — Maintenance.** Add cross-links between related entries; keep a running
 list of recurring characters, places, and motifs so they're described
 consistently everywhere.
-
+ 
 ---
 
 ## 5. Quality checklist (run before marking an entry "reviewed")
@@ -222,12 +230,12 @@ consistently everywhere.
 - [ ] Every interpretation is attributed to a tradition or school.
 - [ ] Real scholarly debates and textual problems are named, not hidden.
 - [ ] Cultural-influence claims are accurate and specific (named works, idioms),
-      not vague ("inspired many artists").
+  not vague ("inspired many artists").
 - [ ] Any harmful reception is framed clearly as misuse.
 - [ ] Cross-references and "related entries" are filled.
 - [ ] Sources / further reading included.
 - [ ] Status line + date present.
-
+- [ ] Renders cleanly to the standard reading page via `render-entry.py` (see `Rendering & Build Spec`).
 ---
 
 ## 6. Reference models (worth borrowing from)

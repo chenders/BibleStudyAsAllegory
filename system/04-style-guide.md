@@ -3,7 +3,7 @@
 This governs the **retelling** — the modern-prose half of each entry. Consistency
 of voice across hundreds of entries is the hardest thing to maintain, so keep
 this close while writing.
-
+ 
 ---
 
 ## Voice in one line
@@ -27,7 +27,6 @@ shows up in the culture, honest, and never an argument that it's true.
   longer for a sweeping one. Don't bloat a quiet passage to hit a count.
 - **Reading level:** accessible to a curious adult or older teen. Short, strong
   sentences. Concrete nouns and verbs over abstraction.
-
 ## Do
 
 - **Show the human stakes** — fear, envy, grief, hope — through action and image,
@@ -43,7 +42,6 @@ shows up in the culture, honest, and never an argument that it's true.
 - **Stay faithful to the events.** You may dramatize gaps (a glance, the weather,
   a silence) to make a scene live, but never invent events that contradict or
   materially add to the text. Flag any notable dramatization in the apparatus.
-
 ## Don't
 
 - No "thee/thou," "verily," or mock-King-James cadence.
@@ -51,7 +49,6 @@ shows up in the culture, honest, and never an argument that it's true.
 - No anachronisms in the prose (no clocks, no modern idioms that break the world).
 - No smirking, no debunking, no air-quotes around the supernatural.
 - No filler ("It is interesting to note that…").
-
 ## Copyright (non-negotiable)
 
 - The retelling is **your own original prose, every time.** That is what keeps the
@@ -61,7 +58,6 @@ shows up in the culture, honest, and never an argument that it's true.
   default, **KJV**, or **ASV (1901)** — and keep quotes short.
 - **Never** reproduce NIV, ESV, NLT, NASB, CSB, NRSV, *The Message*, or other
   in-copyright translations. Paraphrase their sense in your own words instead.
-
 ## A note on the hardest cases
 
 - **Poetry (Psalms, etc.):** don't narrate it. Render it as modern poetry or

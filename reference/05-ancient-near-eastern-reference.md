@@ -171,4 +171,3 @@ Zoroastrian influence; the Tel Dan reading; Covenant Code dependence; the Punic
 *tophet* interpretation and the Israelite extent of child sacrifice).
 **Cross-corpus:** `→R1` Bible, `→R2` Torah, `→R3` Quran, `→R4` Hadith.
 **Status:** draft v0.2 — 2026-06-15 (v0.2 adds the Levantine child-sacrifice complex — Molech, the *tophet*, the Punic evidence — as the antecedent backdrop for the Binding of Isaac.)
- 

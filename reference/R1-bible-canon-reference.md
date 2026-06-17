@@ -5,10 +5,11 @@ is, where it sits, what it says, what it connects to (inside the Bible and acros
 the companion corpora), a keyword taxonomy, and a four-axis score per unit.
 
 **Companion files:** `R0` scoring rubric & taxonomy · `R2` Torah (Jewish framing) ·
-`R3` Quran · `R4` Hadith · `R5` Ancient Near Eastern sources. This file is the
-Christian-canon catalogue; the same Pentateuch read in its own Jewish framing
-(parashot, Tanakh order, midrash) lives in `R2`, and cross-corpus parallels
-(Flood ↔ Gilgamesh, etc.) are detailed in `R5`. Tags like `→ANE:Gilgamesh` point there.
+`R3` Quran · `R4` Hadith · `R5` Ancient Near Eastern sources · `R6` Book of Mormon.
+This file is the Christian-canon catalogue; the same Pentateuch read in its own Jewish
+framing (parashot, Tanakh order, midrash) lives in `R2`, and cross-corpus parallels
+(Flood ↔ Gilgamesh, etc.) are detailed in `R5`. Tags like `→ANE:Gilgamesh` point there,
+and `→bom` points to the Book of Mormon's reuse of a passage (`R6`).
  
 ---
 
@@ -119,7 +120,7 @@ universal origins to one family's story.
 
 > **The Tower of Babel — the scattering of tongues** · `Gen 11:1–9` · *etiological narrative (J)*
 > Humanity, speaking one language, builds a city and tower "to make a name"; God confuses their speech and scatters them. An etiology of linguistic and national diversity, and a critique of imperial hubris (Babel = Babylon).
-> **Related:** reversed at Pentecost (Acts 2). **Keywords:** `myth-of-origins` `judgment` `kingship` `Babel`. **Score:** `I4 · C2 · P4 · H2 · A0`
+> **Related:** reversed at Pentecost (Acts 2); the Jaredites are said to depart at the Babel dispersion (`→bom` Ether 1). **Keywords:** `myth-of-origins` `judgment` `kingship` `Babel` `→bom`. **Score:** `I4 · C2 · P4 · H2 · A0`
 > *(A0: primeval/etiological — no datable claim. H2 [arguably H3]: the Dutch Reformed "separate development" reading drew on Babel + the Table of Nations [Gen 10] to defend apartheid — documented misuse, repudiated as heresy [Belhar, 1982]; recorded as rejected reception. Final H and the full Text→Reception→Consequence→Counter-tradition→Status block belong in the deep entry, owned by #11.)*
 
 > **From Shem to Abram — bridge to the patriarchs** · `Gen 11:10–32` · *genealogy*
@@ -275,15 +276,18 @@ Sinai (19–24) → tabernacle, golden calf, and presence (25–40).
 
 > **The ten plagues** · `Exod 5–11` · *narrative*
 > Pharaoh refuses; God sends ten escalating plagues (blood, frogs, gnats, flies, livestock, boils, hail, locusts, darkness, death of the firstborn), a contest against Egypt's gods, with Pharaoh's heart repeatedly hardened.
-> **Related:** the firstborn plague sets up Passover. **Keywords:** `judgment` `exodus-deliverance` `firstborn` `Moses` `Egypt`. **Score:** `I4 · C3 · P4 · H0`
+> **Related:** the firstborn plague sets up Passover; the contest with Pharaoh's magicians is greatly expanded in `→quran` (the sorcerers convert and are martyred); reprised in Revelation's trumpet and bowl judgments. **Keywords:** `judgment` `plagues` `exodus-deliverance` `firstborn` `Moses` `Aaron` `Egypt` `→quran`. **Score:** `I4 · C3 · P4 · H0 · A2`
+> *(A2 added: the plagues read as theological patterning more than reportable events; an Exodus at the biblical scale is unverifiable. Treated in full — with the Passover — in the entry `exo-07-12-plagues-and-passover` (Exod 7–12), which scores the merged unit `I5 · C3 · P5 · H3 · A2`; the elevated I/P/H there are carried by the Passover material, scored on the stub below.)*
 
 > **The Passover and the Exodus** · `Exod 12–13` · *narrative + ritual instruction*
 > The instituting of Passover (the lamb, blood on the doorposts, unleavened bread) on the night the firstborn die; Israel departs in haste. The founding ritual and the founding deliverance fused.
-> **Related:** `→torah` (the parashah and Seder); the Last Supper as a Passover (Gospels); Christ as "our Passover" (1 Cor 5). **Keywords:** `exodus-deliverance` `ritual-instruction` `liturgy` `firstborn` `sacrifice` `Passover`. **Score:** `I5 · C3 · P4 · H0`
+> **Related:** `→torah` (the parashah and Seder); the Last Supper as a Passover (Gospels); Christ as "our Passover" (1 Cor 5; the paschal-lamb typology, John 19:36). **Keywords:** `exodus-deliverance` `ritual-instruction` `liturgy` `firstborn` `sacrifice` `Passover` `→torah`. **Score:** `I5 · C3 · P5 · H3 · A2`
+> *(P5: Passover is the most widely kept Jewish observance. H3: the Passover blood-rite was grotesquely inverted by the medieval **blood libel** — a slander with no textual basis, indeed an inversion of it, instrumentalized into centuries of antisemitic violence; documented and rejected, with the H3/H4 boundary flagged. A2: an Exodus at the biblical scale is unverifiable, with at most a smaller kernel. Ch. 12 (Passover and the tenth plague) is treated in full in `exo-07-12-plagues-and-passover` (Exod 7–12); Exod 13:1–16 supplies two of the four tefillin passages (13:1–10; 13:11–16), and the departure of 13:17–22 is covered with the crossing in `exo-13-14-red-sea-crossing`.)*
 
 > **The parting of the Red Sea** · `Exod 14–15` · *narrative + victory hymn*
 > Trapped at the sea, Israel passes through on dry ground; the waters return on Pharaoh's army; Moses and Miriam sing the "Song of the Sea," one of the oldest poems in the Bible.
-> **Related:** Exod 15 (Song of the Sea); recurring image of deliverance. **Keywords:** `exodus-deliverance` `miracle` `hymn` `judgment` `Moses`. **Score:** `I5 · C3 · P5 · H0`
+> **Related:** Exod 15 (Song of the Sea); recurring image of deliverance; `→quran` (Musa vs. Pharaoh, the most-told prophet story; the drowning and Pharaoh's rejected deathbed faith, 10:90–92); `→hadith` (the Ashura fast); `→ANE:Baal-Cycle` (Yahweh's mastery of Sea/Yamm). **Keywords:** `exodus-deliverance` `miracle` `hymn` `judgment` `Moses` `→torah` `→quran` `→hadith` `→ANE:Baal-Cycle`. **Score:** `I5 · C3 · P5 · H2 · A2`
+> *(H2: the Exodus→promised-land arc instrumentalized as a settler-colonial charter (Puritan "American Israel"; Afrikaner Great Trek), against a far larger emancipatory counter-tradition — with Joshua's conquest in view the arc runs toward H3. A2: unverifiable at the biblical scale. Full entry: `exo-13-14-red-sea-crossing`, covering 13:17–14:31.)*
 
 > **Wilderness provision — manna, quail, and water** · `Exod 16–17` · *narrative*
 > God feeds Israel with manna and quail and brings water from a rock; Israel grumbles; Amalek attacks and is defeated while Moses' arms are held up.
@@ -705,11 +709,11 @@ those holding single authorship). The most theologically and culturally loaded p
 
 > **First Isaiah — oracles of judgment; the call; Immanuel** · `Isa 1–39` · *oracle + narrative* — **grouped, with flagged units**
 > Judgment on Judah's injustice and idolatry, with flashes of hope: Isaiah's throne-room call ("Holy, holy, holy," ch. 6), the **Immanuel** sign (7:14), the "Prince of Peace" child (9), the peaceable kingdom and "swords into plowshares" (2; 11), and the Hezekiah narratives (36–39).
-> **Related:** 7:14 and 9:6 read as messianic by Christians (Matt 1; Handel's *Messiah*); "swords into plowshares" at the UN. **Keywords:** `prophecy` `oracle` `judgment` `messianic-hope` `Isaiah`. **Score:** `I5 · C4 · P4 · H0`
+> **Related:** 7:14 and 9:6 read as messianic by Christians (Matt 1; Handel's *Messiah*); "swords into plowshares" at the UN; quoted at length in the Book of Mormon (`→bom` 2 Ne 12–24 = Isa 2–14, with Isa 29 reworked as the "sealed book" in 2 Ne 27). **Keywords:** `prophecy` `oracle` `judgment` `messianic-hope` `Isaiah` `→bom`. **Score:** `I5 · C4 · P4 · H0`
 
 > **Second Isaiah — comfort and the Servant Songs** · `Isa 40–55` · *oracle* — **grouped, with flagged units**
 > "Comfort, comfort my people" — exilic consolation, the incomparable creator, and the four **Servant Songs**, climaxing in the **Suffering Servant** (52:13–53:12), who "was wounded for our transgressions."
-> **Related:** Isa 53 is the OT's most important Christian Passion text (Acts 8; Handel's *Messiah*); Jewish reading takes the Servant as Israel. A defining interpretive battleground. **Keywords:** `oracle` `consolation` `suffering-righteous` `messianic-hope` `Isaiah`. **Score:** `I5 · C5 · P3 · H1`
+> **Related:** Isa 53 is the OT's most important Christian Passion text (Acts 8; Handel's *Messiah*); Jewish reading takes the Servant as Israel. A defining interpretive battleground. Isa 53 is quoted in full by Abinadi (`→bom` Mosiah 14) and Isa 54 by the risen Christ in 3 Nephi (`→bom` 3 Ne 22). **Keywords:** `oracle` `consolation` `suffering-righteous` `messianic-hope` `Isaiah` `→bom`. **Score:** `I5 · C5 · P3 · H1`
 
 > **Third Isaiah — the new heavens and new earth** · `Isa 56–66` · *oracle* — **grouped**
 > Post-exilic oracles of inclusion (foreigners and eunuchs welcomed), justice (the fast God chooses, ch. 58), and cosmic renewal ("new heavens and a new earth").
@@ -789,7 +793,7 @@ The twelve shorter prophetic books (one scroll in the Jewish canon). Grouped, wi
 
 > **Haggai; Zechariah; Malachi — the post-exilic prophets** · *oracle* — **grouped**
 > Haggai urges rebuilding the Temple; Zechariah's visions and the coming humble king ("riding on a donkey," 9:9); Malachi's final call and the promise of Elijah's return before "the day of the LORD."
-> **Related:** Zech 9:9 → the Triumphal Entry; Mal 4 → John the Baptist as Elijah; Malachi closes the Christian OT (the Jewish Tanakh ends with Chronicles — see `R2`). **Keywords:** `oracle` `restoration` `messianic-hope` `temple`. **Score:** `I3 · C3 · P2 · H0`
+> **Related:** Zech 9:9 → the Triumphal Entry; Mal 4 → John the Baptist as Elijah; Malachi closes the Christian OT (the Jewish Tanakh ends with Chronicles — see `R2`); Mal 3–4 are quoted by the risen Christ in 3 Nephi (`→bom` 3 Ne 24–25). **Keywords:** `oracle` `restoration` `messianic-hope` `temple` `→bom`. **Score:** `I3 · C3 · P2 · H0`
  
 ---
 
@@ -842,7 +846,7 @@ differences, not four near-duplicates.
 
 > **The Sermon on the Mount / Plain — the Beatitudes** · `Matt 5–7`; cf. `Luke 6` · *teaching discourse* · **[Mt; Lk parallel]**
 > Jesus' great ethical teaching: the **Beatitudes** ("blessed are the poor in spirit…"), salt and light, turning the other cheek, the **Lord's Prayer**, "do not worry," the golden rule, and the wise/foolish builders. Luke's shorter "Sermon on the Plain" parallels much of it.
-> **Related:** the most influential ethical text in Western history (Tolstoy, Gandhi, King). **Keywords:** `teaching-discourse` `kingdom-of-God` `love` `ethics` `Jesus`. **Score:** `I5 · C3 · P4 · H0`
+> **Related:** the most influential ethical text in Western history (Tolstoy, Gandhi, King); delivered again to the Nephites by the risen Christ (`→bom` 3 Ne 12–14). **Keywords:** `teaching-discourse` `kingdom-of-God` `love` `ethics` `Jesus` `→bom`. **Score:** `I5 · C3 · P4 · H0`
 
 > **The parables of the kingdom** · `Matt 13`; `Mark 4`; `Luke 8` · *parable* · **[triple + M/L]** — **grouped**
 > The sower, the mustard seed, the weeds, the hidden treasure, the pearl — short stories of how God's kingdom grows secretly and surprisingly.
@@ -931,7 +935,7 @@ the Pastorals — 1–2 Timothy, Titus) are disputed as later/Pauline-school.
 
 > **Romans — the gospel of justification by faith** · `Rom 1–16` · *epistle argument* — **grouped, with flagged units**
 > Paul's theological masterwork: universal sin (1–3), justification by faith apart from law (3–5, with Abraham as proof, ch. 4), life in the Spirit (6–8, "nothing can separate us"), the fate of Israel (9–11), and ethical exhortation (12–15).
-> **Related:** the engine of the Reformation (Luther on 1:17, "the righteous shall live by faith," from Hab 2:4); Rom 1:26–27 is central to the LGBTQ debate. **Keywords:** `epistle-argument` `justification` `faith` `sin` `Paul`. **Score:** `I5 · C5 · P3 · H3`
+> **Related:** the engine of the Reformation (Luther on 1:17, "the righteous shall live by faith," from Hab 2:4); Rom 1:26–27 is central to the LGBTQ debate; the olive-tree allegory of Rom 11 parallels Zenos's allegory (`→bom` Jacob 5). **Keywords:** `epistle-argument` `justification` `faith` `sin` `Paul` `→bom`. **Score:** `I5 · C5 · P3 · H3`
 > *(C5: justification by faith is the defining Reformation fault line; H3: Rom 1 used against LGBTQ people — documented application, contested, framed and rejected.)*
 
 > **1 Corinthians — order, the body, love, resurrection** · `1 Cor 1–16` · *epistle argument* — **grouped, with flagged units**
@@ -984,8 +988,13 @@ and **idealist** (timeless symbol) — a major interpretive divide.
 > **Keywords:** `apocalyptic` `vision` `church`. **Score:** `I3 · C3 · P2 · H0`
 
 > **The throne, the scroll, and the seven seals** · `Rev 4–8` · *apocalyptic vision* — **grouped**
-> The heavenly throne-room, the slain Lamb worthy to open the scroll, and the **Four Horsemen** unleashed by the seals.
+> The heavenly throne-room, the slain Lamb worthy to open the scroll, and the seven seals — including the **Four Horsemen**, now broken out below with its own full entry.
 > **Related:** "Four Horsemen of the Apocalypse" = a saturating idiom and art subject. **Keywords:** `apocalyptic` `vision` `judgment` `end-times`. **Score:** `I4 · C4 · P4 · H0`
+
+> **The Four Horsemen** · `Rev 6:1–8` · *apocalyptic vision* — **broken out of `Rev 4–8`; full entry**
+> The Lamb opens the first four of the seven seals, loosing the white, red, black, and pale riders — conquest, war, famine, and death — each on a bounded commission ("a quarter of the earth").
+> **Related:** the "Four Horsemen of the Apocalypse," one of the most saturating idioms and art subjects in Western culture; antecedents are intra-biblical (Zechariah's colored horses, Zech 1 & 6; Ezekiel's four judgments, Ezek 14:21), not extra-biblical; the antisemitic-reception weight in Revelation sits on Rev 2:9 / 3:9, not the seal-riders. **Keywords:** `apocalyptic` `vision` `judgment` `end-times` `four-horsemen`. **Score:** `I5 · C4 · P4 · H1 · A0`
+> *(H1: the seal-imagery diffusely recruited into doomsday alarmism and conspiracist "pale horse" branding — at the upper edge of H1, with the entry flagging the H1/H2 call. A0: symbolic apocalyptic making no testable historical claim. Full entry: `rev-06-four-horsemen`.)*
 
 > **The trumpets, the woman and the dragon, the beast and 666** · `Rev 8–13` · *apocalyptic vision* — **grouped**
 > Trumpet plagues, the cosmic battle of the woman, child, and dragon, and the **beast** whose number is **666** — among the most-mined images for end-times speculation.
@@ -1012,4 +1021,3 @@ evidence named in each entry; refresh at review.
 whether some grouped Gospel miracle/parable blocks deserve individual entries at
 scale. Decide during calibration.
 **Status:** draft v0.1 — 2026-06-15
- 

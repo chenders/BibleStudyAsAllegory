@@ -2,8 +2,8 @@
 
 The shared measuring system for every corpus reference file in this project
 (`R1` Bible, `R2` Torah, `R3` Quran, `R4` Hadith, `R5` Ancient Near Eastern
-sources). Each story/unit in those files carries a compact score line built from
-this rubric, plus tags drawn from this controlled vocabulary.
+sources, `R6` Book of Mormon). Each story/unit in those files carries a compact
+score line built from this rubric, plus tags drawn from this controlled vocabulary.
 
 **What this is for.** To let a reader compare units at a glance — *which stories
 are most influential, most contested, most familiar, most misused* — and to keep
@@ -138,7 +138,7 @@ Managing Editor into the entry's score line:
 - **P (Popularity)** → Sociologist of Religion (#8), who owns the survey anchors.
 - **H (Harm)** → Reception-History Harm Historian (#11), whose Text→Reception→Consequence skeleton this axis is built on.
 - **A (Attestation)** → Ancient-World Historian (#4) with the Historical-Critical scholar (#3) — the same pair who own the *Is it historical?* field.
-  The **Managing Editor (#1)** integrates the five, keeps `R1` consistent, and guards the taxonomy.
+  The **Managing Editor (#1)** integrates the five into the entry's score line. Keeping `R1` consistent and guarding the taxonomy is now the standing job of the **Indexer / Librarian (#14)**, who reconciles each entry against its stub before lock and escalates any conflict to #1.
 ---
 
 ## 3 · Controlled keyword taxonomy
@@ -163,7 +163,7 @@ new term to this list the first time it's genuinely needed.
 `underdog` · `wisdom-vs-folly` · `suffering-righteous` · `theodicy` · `repentance` ·
 `mercy-within-judgment` · `blood-cries-out` · `remnant` · `messianic-hope` ·
 `resurrection` · `incarnation` · `discipleship` · `reversal` · `kingdom-of-God` ·
-`justification` · `love` · `martyrdom` · `end-times` · `new-creation`
+`justification` · `love` · `martyrdom` · `end-times` · `new-creation` · `four-horsemen` · `plagues`
 
 ### Facet C — Figures
 Use the canonical English form (per the project's Recurring-Elements Registry):
@@ -182,9 +182,13 @@ Use the canonical English form (per the project's Recurring-Elements Registry):
 
 ### Facet E — Cross-corpus link
 Tag when a unit has a counterpart in another file:
-`→torah` · `→quran` · `→hadith` · `→ANE:<text>` (e.g. `→ANE:Gilgamesh`,
-`→ANE:Enuma-Elish`, `→ANE:Hammurabi`, `→ANE:Amenemope`, `→ANE:Aten-Hymn`,
-`→ANE:Dumuzid-Enkimdu`, `→ANE:Atrahasis`, `→ANE:Baal-Cycle`, `→ANE:child-sacrifice`).
+`→torah` · `→quran` · `→hadith` · `→bom` (Book of Mormon, `R6`) · `→ANE:<text>`
+(e.g. `→ANE:Gilgamesh`, `→ANE:Enuma-Elish`, `→ANE:Hammurabi`, `→ANE:Amenemope`,
+`→ANE:Aten-Hymn`, `→ANE:Dumuzid-Enkimdu`, `→ANE:Atrahasis`, `→ANE:Baal-Cycle`,
+`→ANE:child-sacrifice`).
+The Bible (`R1`) is the hub the others point back to; sibling files use `→R1`
+(or a bare book name) for that direction, reserving the corpus tags above for
+outbound links.
  
 ---
 

@@ -186,4 +186,3 @@ common forms are used.
 **Not scored:** per project design, four-axis scores live in `R1`; shared figures
 are cross-referenced rather than re-scored.
 **Status:** draft v0.1 — 2026-06-15
- 
