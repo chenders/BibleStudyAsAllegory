@@ -1,3 +1,8 @@
+---
+name: recurring-elements-registry
+description: "Recurring-Elements Registry. Seeded from the primeval history (Gen 1–11), the production starting point. Expand book by book."
+---
+
 # Recurring-Elements Registry
 
 The project's single source of truth for **consistency across entries**. At ~1,000
