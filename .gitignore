@@ -12,6 +12,9 @@ __pycache__/
 *.pyc
 .venv/
 
+# Local KJV reference text (regenerate with scripts/fetch_kjv.py)
+reference/kjv/
+
 # Claude Code local state (keep shared config: agents, commands, skills, settings.json)
 .claude/projects/
 .claude/history/
