@@ -1,0 +1,53 @@
+name: Publish index to GitHub Pages
+
+# Rebuilds the index + all entry pages and deploys to GitHub Pages whenever a
+# commit lands on main that adds, changes, or deletes an entry (or touches the
+# build scripts / this workflow). Deletions are covered: removing a file under
+# entries/** still matches the path filter.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "entries/**"
+      - "scripts/build_index.py"
+      - "scripts/render-entry.py"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one Pages deployment at a time; don't cancel an in-flight deploy.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install render/index dependencies
+        run: python -m pip install --upgrade pip markdown fonttools brotli
+      - name: Build site (index + rendered entry pages)
+        run: python scripts/build_index.py --out _site
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
