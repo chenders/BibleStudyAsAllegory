@@ -1,3 +1,9 @@
+---
+description: Review and respond to GitHub Copilot review comments on a PR, looping until the review is clean
+argument-hint: [pr-number-or-branch] (optional; defaults to the current branch's PR)
+allowed-tools: Bash(gh:*), Bash(git:*), Bash(uv:*), Read, Write, Edit, Grep, Glob
+---
+
 # Respond to Copilot
 
 Review and respond to GitHub Copilot review comments on a pull request. Loops until Copilot has no new comments.
