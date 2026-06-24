@@ -3,22 +3,10 @@
 What's worth adding, grouped by type. The custom subagents, skills, and commands in
 this repo are already the core of it; this is what complements them.
 
-## Custom — already in this repo (the "ones I made for you")
-
-These ship in the scaffold; no install step, they load when you run `claude` here.
-
-- **13 subagents** (`.claude/agents/`) — your expert panel as real subagents, each
-  with its own context, tools, and model. Drafters (narrative-writer, comparative-
-  religion, harm-historian) run on Opus; reviewers/researchers on Sonnet; the
-  read-only auditor (standards-integrity) stays tool-restricted.
-- **6 commands** (`.claude/commands/`) — `/new-entry`, `/draft-entry`,
-  `/review-entry`, `/score-unit`, `/validate`, `/sync-check`.
-- **3 skills** (`.claude/skills/`) — entry-validator, copyright-guard,
-  score-consistency, each wrapping a deterministic script and auto-triggering by
-  description.
-- **1 hook** (`.claude/settings.json`) — a non-blocking copyright scan on entry writes.
-
-Tweak any of them by editing the Markdown/JSON; restart `claude` to reload subagents.
+*Implemented recommendations are removed from this list — what remains is what is still
+worth doing. (Already done and dropped: the custom subagent/command/skill/hook suite, a
+public-domain scripture source via the local KJV in `reference/kjv/`, a Zotero reference
+MCP in `.mcp.json`, and a Markdown-tidy save hook.)*
 
 ## Built-in Claude Code features to lean on
 
@@ -38,33 +26,21 @@ Tweak any of them by editing the Markdown/JSON; restart `claude` to reload subag
 
 Add with `claude mcp add ...`. Pick by need:
 
-- **Scripture text (public-domain).** The single highest-value add. You need WEB/KJV/
-  ASV text on tap without pasting copyrighted translations. A scripture-lookup MCP, or
-  simply Claude Code's built-in **WebFetch** pointed at a public-domain API such as
-  `bible-api.com` (serves the World English Bible and KJV), gives the translation-
-  languages subagent clean source text. Keep the in-copyright rule in mind: fetch only
-  WEB/KJV/ASV.
 - **GitHub** (`@modelcontextprotocol/server-github`) — version the corpus, open issues
   per book, track entry status in PRs. Natural fit for ~1,000 growing files.
 - **Google Drive** — if your Claude.ai project keeps source PDFs/notes in Drive,
   the Drive MCP lets Claude Code read them directly.
-- **A reference manager (Zotero or similar)** — if you want "Sources & further reading"
-  to pull from a managed bibliography rather than free text.
 
 Don't bother with the dev-centric MCP/plugins (database, CI, secrets scanners) — this
 isn't a code project.
 
 ## Plugins
 
-Most marketplace plugins target software teams, so few apply directly. Two moves that do:
-
-1. **Browse the official marketplace** with `/plugin` (catalog:
-   `anthropics/claude-plugins-official`). A zero-config **markdown formatter** hook is
-   the one general-purpose pick worth having — it keeps entries tidy on save.
-2. **Package *this* repo's suite as a plugin** so you can reuse it across machines or
-   share it. Plugins bundle commands + agents + skills + hooks behind one install. The
-   structure differs slightly from a project (dirs sit at the plugin root, not under
-   `.claude/`, and only `plugin.json` goes in `.claude-plugin/`):
+Most marketplace plugins target software teams, so the move that applies here is to
+**package *this* repo's suite as a plugin** so you can reuse it across machines or
+share it. Plugins bundle commands + agents + skills + hooks behind one install. The
+structure differs slightly from a project (dirs sit at the plugin root, not under
+`.claude/`, and only `plugin.json` goes in `.claude-plugin/`):
 
 ```text
 bible-companion-plugin/
@@ -83,7 +59,7 @@ bible-companion-plugin/
 ```json
 {
   "name": "bible-companion",
-  "description": "Drafting, scoring, review, and validation tools for the Bible-companion project: a 13-persona panel, entry workflows, and structure/copyright/score checks.",
+  "description": "Drafting, scoring, review, and validation tools for the Bible-companion project: a 19-agent panel, entry workflows, and structure/copyright/score checks.",
   "version": "0.1.0",
   "author": { "name": "Your Name" },
   "license": "MIT"
