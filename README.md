@@ -144,9 +144,7 @@ These rules are not style preferences. They define what the project will and wil
 
 ## License
 
-No license has been chosen yet. **This is a TODO:** there is no `LICENSE` file in the repository, and nothing here should be assumed to be openly licensed until one is added.
+This project is licensed under the [MIT License](LICENSE).
 
-Two distinct categories of content will need to be addressed when a license is set:
-
-- **Original prose.** The retellings, metadata, and reference notes are original work authored for this project, and their license is to be determined.
+- **Original prose.** The retellings, metadata, and reference notes are original work authored for this project, released under MIT.
 - **Quoted scripture.** Scripture quotations are drawn only from public-domain translations (WEB, KJV, ASV), which carry no copyright restriction in their own right.
