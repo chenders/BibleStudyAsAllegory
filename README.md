@@ -2,6 +2,8 @@
 
 A plain-English companion to the Bible for people who want to understand it as a foundational text of the surrounding culture, not as a believer or a critic.
 
+**Live site:** https://chenders.github.io/BibleStudyAsAllegory/ — the index and every entry, published automatically from `main`.
+
 ## Contents
 
 - [What this is](#what-this-is)
