@@ -59,7 +59,10 @@ respect.
   artifact layer is accessible and doesn't read as generated.
 ## Verdict & severity (shared rubric)
 - **S1 Critical (blocking):** reads as generated (an unmodified default look);
-  inaccessible (no focus, fails reduced-motion, colour-only meaning).
+  inaccessible (no focus, fails reduced-motion, colour-only meaning); or **any visual
+  depiction of Muhammad** (or other image with a documented record of lethal reprisal) —
+  a safety prohibition, per `CLAUDE.md` → Hard rules; reject it and require an aniconic
+  substitute (veil, flame/light, calligraphy, or absence).
 - **S2 Major (blocking):** the brief's explicit constraint ignored (e.g. "no
   orange," "dark theme") or a grave subject given a flippant visual treatment.
 - **S3–S5 (suggested):** spacing, type-scale, and polish refinements.

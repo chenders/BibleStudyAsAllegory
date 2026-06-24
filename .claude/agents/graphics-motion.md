@@ -120,7 +120,14 @@ should come out.
   dating & composition → #3; the five-axis score → its axis owners (#7 · #3/#12 · #8 ·
   #11 · #4/#3) integrated by #1; the connections network → #14; cross-tradition matrices
   → #5/#6/#13; harm timelines and harm-imagery → #11.
-- **Sacred-image sensitivity → #5/#6/#13.** Harmful-image judgement → #11.
+- **Never depict Muhammad** — and never render any image with a documented record of provoking
+  lethal reprisal (Qur'an-desecration imagery, etc.). This is a **safety rule, not
+  offence-avoidance**: such images have repeatedly gotten their makers and bystanders murdered
+  (van Gogh 2004; *Jyllands-Posten* 2005; *Charlie Hebdo* 2015; Samuel Paty 2020). Where a figure
+  would otherwise show the Prophet, use Islamic aniconic convention — veil, flame/light,
+  calligraphy, or absence — and note it. The prose treats the subject in full; only the image is
+  withheld. (See `CLAUDE.md` → Hard rules.) Depicting Muhammad is always **S1**.
+- **Other sacred-image sensitivity → #5/#6/#13.** Harmful-image judgement → #11.
 - **vs. Managing Editor (#1):** #1 decides whether a unit warrants the visual work and
   integrates it; you certify the figure is accurate to its source, accessible, and in
   idiom.
