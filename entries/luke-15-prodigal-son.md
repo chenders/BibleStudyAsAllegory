@@ -13,13 +13,33 @@
 
 ## THE READING
 
-### 1 · The text
+### 1 · Faithful translation
+*(Editorial translation from the Greek — to be checked against standard scholarly translations in production. Key verses; the passage runs 15:11–32.)*
+
+11 And he said, "A certain man had two sons. 12 And the younger of them said to his father, 'Father, give me the share of the property that falls to me.' And he divided his living† between them. 13 And not many days later, the younger son gathered everything together and journeyed away to a distant country, and there he scattered his property, living dissolutely.‡
+
+17 But coming to himself,§ he said, 'How many of my father's hired men have more than enough bread, and here I am perishing with hunger! 18 I will get up and go to my father, and I will say to him, "Father, I have sinned against heaven and before you. 19 I am no longer worthy to be called your son; make me like one of your hired men."' 20 And he got up and went to his own father. But while he was still far off, his father saw him and was moved with compassion, and he ran and fell on his neck and kissed him. 21 And the son said to him, 'Father, I have sinned against heaven and before you; I am no longer worthy to be called your son.' 22 But the father said to his servants, 'Quick — bring out the best robe and put it on him, and give a ring for his hand and sandals for his feet, 23 and bring the fattened calf, slaughter it, and let us eat and celebrate, 24 because this son of mine was dead and has come back to life; he was lost and is found.' And they began to celebrate.
+
+25 Now his elder son was in the field, and as he came and drew near to the house, he heard music and dancing. 26 And calling over one of the servants, he asked what these things might be. 27 And he said to him, 'Your brother has come, and your father has slaughtered the fattened calf, because he has received him back safe and sound.' 28 But he was angry and would not go in. So his father came out and pleaded with him. 29 But he answered his father, 'Look, all these years I have slaved for you and never once disobeyed your command, and you never gave me so much as a young goat, that I might celebrate with my friends. 30 But when this son of yours came — the one who devoured your living with prostitutes — you slaughtered the fattened calf for him.' 31 And he said to him, 'Child, you are always with me, and everything that is mine is yours. 32 But we had to celebrate and rejoice, because this brother of yours was dead and has come to life; he was lost and is found.'"
+
+> † *15:12 — the father divides his bios (βίος), "living, means of life" (again in v. 30), the substance a man lives on — almost his "life" itself; not merely money.*
+> ‡ *15:13 — "living dissolutely," zōn asōtōs (ζῶν ἀσώτως), from a-sōzō, "un-savingly": recklessly, wastefully. This adverb, not any word for wandering, is the sole root of English "prodigal."*
+> § *15:17 — eis heauton de elthōn (εἰς ἑαυτὸν δὲ ἐλθών), "coming to himself." The idiom can mean genuine repentance (a turn of the heart) or merely "coming to his senses" (a hungry man's calculation). Luke's usual word for repentance is not used here, and the ambiguity is almost certainly deliberate — see §3.*
+
+### 2 · King James Version
+*(Public domain — verify against an authoritative KJV text before locking. Same key verses as above.)*
+
+11 And he said, A certain man had two sons: 12 And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. 13 And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.
+
+17 And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! 18 I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee, 19 And am no more worthy to be called thy son: make me as one of thy hired servants. 20 And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. 21 And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. 22 But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: 23 And bring hither the fatted calf, and kill it; and let us eat, and be merry: 24 For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.
+
+25 Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. 26 And he called one of the servants, and asked what these things meant. 27 And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. 28 And he was angry, and would not go in: therefore came his father out, and intreated him. 29 And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends: 30 But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf. 31 And he said unto him, Son, thou art ever with me, and all that I have is thine. 32 It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
+
+### 3 · How the translations differ — and what's at stake
 
 Luke 15:11–32 is a story Jesus tells, not an event Luke reports. A man has two sons; the younger asks for his inheritance early, blows it in a distant country, hits bottom, and comes home braced for rejection — only to be met on the road by a father who runs to him and throws a feast. The elder son, who stayed and worked, refuses to come in to the party, and the story ends with the father pleading with him on the doorstep. We never learn whether he goes in.
 
 The parable's frame is the key to it. Luke 15 opens with tax collectors and "sinners" crowding around Jesus, and with religious leaders muttering that he welcomes exactly the wrong people (15:1–2). All three parables that follow — a lost sheep, a lost coin, a lost son — are Jesus's answer to that complaint. So the "younger son" is anyone the respectable have written off, the "father" is God running toward them, and the sulking "elder son" is aimed, gently but unmistakably, at the grumblers themselves. Read it any other way and you lose the reason it was told.
-
-### 2 · How the translations differ — and what's at stake
 
 - **"Prodigal" — asōtōs (15:13).** The word we've hung on the whole parable describes *how* the son spent, not that he wandered. The Greek *asōtōs* means "wastefully, dissolutely" — literally something like "un-savingly" — and English "prodigal" (from Latin *prodigere*, "to squander") means the same: recklessly extravagant. The popular sense of "prodigal" as "someone who returns after straying" is a back-formation from this parable; it is not what the word means. The son's fault named here is blowing the money, not leaving.
 - **"Gave me my share" — the demand (15:12).** The son asks for "the share of the property (*ousia*) that falls to me," and the father divides his *bios* — his "living," his substance, even "life." Many commentators read demanding one's inheritance while the father is alive as shockingly insolent, "tantamount to wishing him dead." But this is a genuine scholarly dispute, not a settled fact: the legal historian **Bernard Jackson** argues that Jewish sources give no support to the "wishing him dead" reading. The entry flags both positions rather than asserting the dramatic one.
@@ -27,7 +47,7 @@ The parable's frame is the key to it. Luke 15 opens with tax collectors and "sin
 - **"Prostitutes" — the elder son's charge (15:30).** When the elder brother says the younger "devoured your living with prostitutes," that is *his accusation*, not something the narrator reports as fact. The story never says what the money was spent on; the smear is the elder son characterizing his brother. Small point, large consequence: the parable is careful to let the resentful brother reveal himself through what he chooses to assume.
 - **"This son of yours" / "this brother of yours" (15:30, 15:32).** The elder son won't say "my brother" — he says "*this son of yours*." The father corrects him in the last line: "*this brother of yours* was dead and is alive." The pronouns carry the whole argument about who counts as family.
 
-### 3 · Plain-English retelling
+### 4 · Plain-English retelling
 
 A man had two sons. The younger one came to him and said: *Father, give me my share of the estate now.* It was a breathtaking thing to ask — the inheritance was supposed to come when the father died — but the father divided everything between the two of them and let him have it.
 
@@ -45,13 +65,13 @@ And the father said: *Son, you're always with me, and everything I have is yours
 
 And there the story stops. We are never told whether the elder son went in.
 
-### 4 · What it means (plain-English interpretation)
+### 5 · What it means (plain-English interpretation)
 
 At the surface this is the greatest of all stories about **being welcomed back**: a person who has thrown everything away is met, before he can even finish apologizing, by a love that runs toward him. The details are chosen to make grace scandalous. The father does not lecture, does not extract a probationary period, does not even wait for the confession — he restores the son to full status (the robe, the ring, the shoes) on sight. The point is that the welcome is *unearned*, and that's exactly what makes it good news to the "sinners" listening and offensive to the "righteous."
 
 But the parable is smarter than a simple homecoming, because it has **two** lost sons, and it saves its sting for the second. The elder son has done everything right and is, at the end, the one standing outside the party — not because he squandered anything, but because he cannot stand that his brother is forgiven. His goodness has curdled into a bookkeeping of merit that leaves no room for grace, and the parable quietly asks whether being dutiful and resentful is its own way of being far from the father. That is why Jesus leaves the ending open: the door is ajar, the father is pleading, and the question — *will you come in and rejoice, or will your sense of fairness keep you out?* — is left hanging over the original audience of grumbling religious leaders, and over every reader since.
 
-### 5 · Why this matters
+### 6 · Why this matters
 
 This little story is arguably the most influential fiction in Western civilization, and you meet its fingerprints constantly.
 

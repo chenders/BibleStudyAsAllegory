@@ -15,7 +15,7 @@
 
 ### 1 · The text
 
-*A plain translation made directly from the Hebrew, kept close to the wording so the hard choices stay visible. Where the Hebrew is genuinely uncertain, it follows one reading, and the next section opens up the rest.*
+*A faithful translation made directly from the Hebrew, kept close to the wording so the hard choices stay visible. Where the Hebrew is genuinely uncertain, it follows one reading, and the next section opens up the rest.*
 
 4 These are the generations of the heavens and the earth when they were created, in the day that the LORD God made earth and heaven. 5 No shrub of the field was yet in the land, and no plant of the field had yet sprung up, for the LORD God had not sent rain on the land, and there was no human to work the ground; 6 but a flow would rise from the earth and water the whole face of the ground. 7 Then the LORD God formed the human from the dust of the ground and breathed into his nostrils the breath of life, and the human became a living being.
 

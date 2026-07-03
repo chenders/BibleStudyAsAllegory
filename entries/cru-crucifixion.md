@@ -8,12 +8,35 @@
 **Parallel passages:** Within the arc — *The Trials before the Sanhedrin and Pilate* (Matt 26–27 // Mark 14–15 // Luke 22–23 // John 18–19), where the "King of the Jews" charge and the Matthew 27:25 "blood" verse arise; *The Last Supper* (the meal the cross fulfills); *The Resurrection*. Old-Testament intertexts read as fulfilled: **Psalm 22, Psalm 31, Psalm 69, Isaiah 53,** Zechariah 12:10, Exodus 12 (the Passover lamb)
 **Score (R0):** `I5 · C4 · P5 · H4 · A4` *(foundational — the cross is the central symbol of Christianity and the most-depicted event in Western art; live dispute over composition, chronology, atonement theology, and the four-Gospel divergences; among the most universally known stories on earth; a grave H4 harm history — the deicide charge drawn from the passion narratives, framed and rejected; and, unusually for this corpus, a **high Attestation**: the crucifixion as an event is among the best-attested facts about Jesus, accepted even by skeptical historians and corroborated by non-Christian sources. Full scale in `R0`; matches the `R1` `Crucifixion` stub `I5 · C4 · P5 · H4`. **Calibration note:** the R1 stub predates the Attestation axis and carries no A value; this entry proposes **A4** and flags the backfill for the Indexer (#14). The sibling Trials stub holds the heavier `H5` because the "his blood be on us" verse (Matt 27:25) sits in the trial scene; this entry carries the crucifixion's share at H4 and cross-references.)*
 **Keywords (R0):** `sacrifice` `atonement` `suffering-righteous` `martyrdom` `Golgotha` `the-cross` `seven-last-words` `Pilate` `Jesus` `→torah` `→quran` `→deicide-charge` `→ps22` `→isa53`
- 
+
 ---
 
 ## THE READING
 
-### 1 · The text
+### 1 · Faithful translation
+
+*(Editorial translation from the Greek of Mark 15:22–39, the earliest passion narrative, taken as the anchor text; the harmonized reading of all four Gospels follows below. To be checked against standard scholarly translations in production.)*
+
+22 And they bring him to the place Golgotha, which means, translated, "Place of a Skull." 23 And they tried to give him wine mixed with myrrh, but he did not take it. 24 And they crucify him, and they divide his garments among themselves, casting lots over them for what each should take. 25 It was the third hour when they crucified him. 26 And the inscription of the charge against him was written above: "The King of the Jews." 27 And with him they crucify two robbers, one on his right and one on his left.†
+
+29 And those passing by were reviling him, shaking their heads and saying, "Aha — you who would tear down the sanctuary and build it in three days, 30 save yourself and come down from the cross!" 31 In the same way the chief priests too, mocking him among themselves with the scribes, were saying, "He saved others; himself he cannot save. 32 Let the Messiah, the King of Israel, come down now from the cross, so that we may see and believe." And those crucified with him were heaping insults on him.
+
+33 And when the sixth hour came, darkness fell over the whole land until the ninth hour. 34 And at the ninth hour Jesus cried out with a loud voice, "Elōi, Elōi, lema sabachthani?" — which means, translated, "My God, my God, why have you forsaken me?"‡ 35 And some of the bystanders, hearing it, said, "Look, he is calling Elijah." 36 And someone ran, filled a sponge with sour wine, put it on a reed, and gave it to him to drink, saying, "Leave him be — let us see whether Elijah comes to take him down." 37 But Jesus, letting out a loud cry, breathed his last. 38 And the curtain of the sanctuary was torn in two, from top to bottom. 39 And when the centurion standing opposite him saw that he had breathed his last in this way, he said, "Truly this man was God's Son."
+
+> † *15:27–28 — the earliest and best Greek manuscripts (e.g. Sinaiticus, Vaticanus) go straight from v. 27 to v. 29; a later verse 28, "And the scripture was fulfilled that says, 'And he was counted among the lawless'" (quoting Isaiah 53:12), is absent here and is generally judged an assimilation to Luke 22:37. This translation follows the earlier text and omits it; the KJV below includes it.*
+> ‡ *15:34 — the cry is preserved in transliterated **Aramaic** (with "My God" possibly Hebrew-inflected), then glossed for a Greek-reading audience. It quotes the opening line of **Psalm 22**. Matthew 27:46 gives a more Hebraized form ("Ēli, Ēli"); the "Elōi" of Mark is closer to the Aramaic ʾĕlāhî. The pun that lets bystanders hear "Elijah" (ʾĒliyyā) works in either form.*
+
+### 2 · King James Version
+
+*(Public domain — verify against an authoritative KJV text before locking. Mark 15:22–39.)*
+
+22 And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull. 23 And they gave him to drink wine mingled with myrrh: but he received it not. 24 And when they had crucified him, they parted his garments, casting lots upon them, what every man should take. 25 And it was the third hour, and they crucified him. 26 And the superscription of his accusation was written over, THE KING OF THE JEWS. 27 And with him they crucify two thieves; the one on his right hand, and the other on his left. 28 And the scripture was fulfilled, which saith, And he was numbered with the transgressors.
+
+29 And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days, 30 Save thyself, and come down from the cross. 31 Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save. 32 Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.
+
+33 And when the sixth hour was come, there was darkness over the whole land until the ninth hour. 34 And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me? 35 And some of them that stood by, when they heard it, said, Behold, he calleth Elias. 36 And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down. 37 And Jesus cried with a loud voice, and gave up the ghost. 38 And the veil of the temple was rent in twain from the top to the bottom. 39 And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.
+
+### 3 · The harmonized account (all four Gospels)
 
 *The four Gospels are harmonized here into one narrative, with the major divergences flagged as they arise — because the differences between the accounts are, for this passage above all, part of the point. All quotations are from public-domain translations (KJV, ASV, WEB).*
 
@@ -39,7 +62,7 @@
 
 **The burial.** **Joseph of Arimathea** asks Pilate for the body and lays it in a new, unused tomb. *John adds* **Nicodemus**, with a large weight of myrrh and aloes. *Matthew alone* adds that the authorities set a **guard** at the tomb.
 
-### 2 · How the translations differ — and what's at stake
+### 4 · How the translations differ — and what's at stake
 
 The crucifixion is told in plain narrative, but several words carry the weight of centuries:
 
@@ -48,7 +71,7 @@ The crucifixion is told in plain narrative, but several words carry the weight o
 - **The cry of dereliction — and why they thought he called Elijah.** Matthew transliterates *Eli, Eli, lema sabachthani*; Mark has *Eloi, Eloi, lama sabachthani*. The word for "forsake" (*sabachthani*) is **Aramaic**; the bystanders' confusion — "he calleth for **Elias** [Elijah]" — works because "Eli/Eloi" sounds like the prophet's Hebrew name. The line quotes the opening of **Psalm 22**, a lament that *ends* in vindication and praise — which is why readers split over whether the cry is pure despair or a pointer to the whole psalm.
 - **"It is finished" — *tetelestai*.** The Greek (John 19:30) is the perfect of *teleō*, "to complete, accomplish": his work and the scriptures are *brought to their end*. A popular claim that it was a commercial term meaning "paid in full" rests on a confusion with a different word on tax receipts; the mainstream reading, held since the Church Fathers, is *completion*, not a bookkeeping metaphor.
 - **"The Jews" (especially in John).** John repeatedly attributes the pressure for Jesus' death to *hoi Ioudaioi*, "the Jews." Whether to render this "the Jews," "the Judeans," or "the Jewish authorities" is now a live and consequential translation question, because the broad rendering fed the deicide charge (see *Harmful afterlife*). Most scholars stress that John's own community was Jewish and that the term marks a specific intra-Jewish conflict, not a whole people for all time.
-### 3 · Plain-English retelling
+### 5 · Plain-English retelling
 
 They take Jesus out of the city to a place called Golgotha — "the skull." He has been flogged and is failing, so the soldiers grab a man out of the crowd, Simon from Cyrene, and load the crossbeam onto him to carry the rest of the way. (John's account skips this and has Jesus carry it himself — one of many small differences between the four tellings.)
 
@@ -58,7 +81,7 @@ Around noon the sky goes dark for three hours. And here the four accounts give u
 
 At the moment he dies, the great curtain in the Temple rips from top to bottom. Matthew alone piles on the cosmic signs — an earthquake, tombs breaking open. The Roman officer in charge, watching it all, says the line the Gospel has been building toward: *truly this was the Son of God* (or, in Luke, *surely this man was innocent*). The women who had followed him watch from a distance. In John, to make sure he is dead, a soldier drives a spear into his side, and blood and water flow out. Then a sympathizer with standing, Joseph of Arimathea, gets permission to take the body down and lays it in a fresh tomb cut into rock — and the longest day in the Christian calendar is over.
 
-### 4 · What it means (plain-English interpretation)
+### 6 · What it means (plain-English interpretation)
 
 On the surface this is an execution — a specific, brutal Roman one. To grasp the story you have to grasp what **crucifixion was**: not a generic death penalty but the most degrading one Rome had, the "slave's punishment," staged in public to humiliate and to terrorize, reserved for rebels, slaves, and the conquered. For a movement to claim that its founder *and Lord* died this way was, in its own world, an absurdity and a scandal — which is part of why historians are so confident it happened (see *Is it historical?*).
 
@@ -66,14 +89,14 @@ For Christianity, though, the cross is not a defeat but the hinge of everything.
 
 And the four-fold telling is itself meaningful. The Gospels were not embarrassed to remember the death four different ways — abandoned (Mark), forgiving (Luke), triumphant (John) — because each is saying something about who they believed was dying and why. The differences are not a bug to be harmonized away; they are four theologians at work.
 
-### 5 · Why this matters
+### 7 · Why this matters
 
 This is the source of the most recognizable symbol on earth. The **cross** — and its filled-in form the **crucifix** — marks churches, graves, flags, and bodies across the world. (A quiet denominational tell: most **Protestants** use an *empty* cross, stressing the resurrection; **Catholics and Orthodox** use a **crucifix** bearing the body, stressing the sacrifice.) The vocabulary is everywhere: "**a cross to bear**," "**crucify him**," "**Calvary**," "**Golgotha**," "the **stations of the cross**," and the four letters **INRI** on a thousand paintings.
 
 It is the engine of Western sacred art and music. The crucifixion is, with the Nativity, the most-depicted subject in the history of Western art — Grünewald's harrowing **Isenheim Altarpiece**, Velázquez, Rubens, Dalí's vertiginous **Christ of Saint John of the Cross**, and Chagall's **White Crucifixion**, which paints Jesus as a murdered Jew amid the pogroms. It gave the world Bach's **St Matthew** and **St John Passions**, Handel's **Messiah**, and the spiritual **"Were You There When They Crucified My Lord."** And beyond religion, "the cross" became the culture's shorthand for **redemptive or innocent suffering** — the figure of the one who suffers unjustly and somehow makes meaning of it.
 
 Knowing this story lets you read a Renaissance altarpiece, understand what a Christian means by "the cross" or "atonement," follow an argument about a Passion play or a Mel Gibson film, and recognize why a Roman torture device became, against every expectation, a sign of hope. It also — and this matters — lets you see how the same story was turned into a weapon against the people Jesus belonged to (see *Harmful afterlife*).
- 
+
 ---
 
 ## BEHIND THE TEXT
