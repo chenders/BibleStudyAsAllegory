@@ -13,7 +13,7 @@
 
 ## THE READING
 
-### 1 · The text
+### 1 · Faithful translation
 
 *A faithful translation made directly from the Hebrew, kept close to the wording. This is the climax — the announcement of the last plague, the instituting of Passover, and the night itself. The earlier nine plagues are told in the retelling below; the hard words and the famous cruxes are opened up in the next section.*
 

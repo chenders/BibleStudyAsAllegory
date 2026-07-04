@@ -13,7 +13,7 @@
 
 ## THE READING
 
-### 1 · The text
+### 1 · Faithful translation
 
 *A faithful translation made directly from the Greek, kept close to the wording so the choices that matter stay visible. The hard spots — the colours, the coins, the names — are opened up in the next section.*
 

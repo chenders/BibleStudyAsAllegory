@@ -13,7 +13,7 @@
 
 ## THE READING
 
-### 1 · The text
+### 1 · Faithful translation
 
 *A faithful translation made directly from the Hebrew, kept close to the wording so the hard choices stay visible. Where the Hebrew is genuinely uncertain, it follows one reading, and the next section opens up the rest.*
 
