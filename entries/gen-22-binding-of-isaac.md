@@ -13,15 +13,38 @@
 
 ## THE READING
 
-### 1 · The text
+### 1 · Faithful translation
+*(Editorial translation from the Hebrew — to be checked against standard scholarly translations in production. Key verses only; the passage runs 22:1–19.)*
 
-Genesis 22:1–19 is short — nineteen verses — and almost unbearably compressed. God "tests" Abraham by ordering him to take Isaac, the son he waited a hundred years for, to a mountain and offer him as a burnt sacrifice. Abraham obeys without a recorded word of protest. He saddles up, travels three days, builds an altar, binds his son, and raises the knife — and only then does an angel stop him and a ram appear, caught in a thicket, to be killed instead.
+1 After these things, God tested Abraham. He said to him, "Abraham!" And he said, "Here I am." 2 He said, "Take now your son, your only one, whom you love — Isaac — and go to the land of Moriah,† and offer him up there as a burnt offering on one of the mountains that I will tell you of."
 
-The story's power is in what it withholds. We are never told what Abraham feels, what he thinks, whether he sleeps on those three nights, or what he and Isaac say to each other on the way down the mountain — indeed, the text notably does not have them descend *together*, and Sarah is never mentioned again alive. The literary critic Erich Auerbach famously used this chapter as the model of biblical narrative's "fraught background": a style that leaves motive and feeling in shadow, forcing the reader to supply them and so to be implicated. Every tradition that touches this story is, in part, filling that silence.
+6 Abraham took the wood for the burnt offering and laid it on Isaac his son, and in his own hand he took the fire and the knife. And the two of them walked on together. 7 Isaac said to Abraham his father, "My father." And he said, "Here I am, my son." He said, "Here are the fire and the wood, but where is the lamb for the burnt offering?" 8 Abraham said, "God will see to the lamb for the burnt offering for himself, my son." And the two of them walked on together.
 
-### 2 · How the translations differ — and what's at stake
+9 They came to the place that God had told him of, and Abraham built the altar there and laid out the wood. He bound‡ Isaac his son and laid him on the altar, on top of the wood. 10 Abraham reached out his hand and took the knife to slaughter his son. 11 But the angel of the LORD called to him from the heavens and said, "Abraham! Abraham!" And he said, "Here I am." 12 He said, "Do not lay your hand on the boy, and do nothing to him. For now I know that you fear God, since you have not withheld your son, your only one, from me."
 
-This tight passage hides an unusual number of load-bearing words.
+13 Abraham lifted up his eyes and looked, and there was a ram behind him,§ caught in the thicket by its horns. Abraham went and took the ram and offered it up as a burnt offering in place of his son. 14 Abraham called the name of that place *YHWH-yireh* ("the LORD will see" / "will provide"); as it is said to this day, "On the mountain of the LORD it shall be seen."‖
+
+> † *22:2 — the Hebrew (Masoretic Text) reads "Moriah" (môrîyyāh), which 2 Chronicles 3:1 ties to the Jerusalem Temple Mount; the **Samaritan Pentateuch** reads "Moreh" (môreh), pointing toward Shechem and Mount Gerizim. One vowel, two rival holy mountains — see §3.*
+> ‡ *22:9 — "bound," wayyaʿăqōd, is a rare verb (a hapax legomenon here) and gives the episode its Jewish name, the ʿAqedah, "the Binding."*
+> § *22:13 — the Masoretic reading is "behind him" (ʾaḥar); many Hebrew manuscripts and the Samaritan Pentateuch, Septuagint, and Syriac read "one [ram]" (ʾeḥād), differing by a single letter. This layer renders the Masoretic ʾaḥar.*
+> ‖ *22:14 — the naming turns on the verb rāʾāh, "see," which also carries the sense "provide" (compare v. 8). The closing proverb is passive — yērāʾeh, "it shall be seen/provided" — though some read the consonants actively, "he will see." The wordplay on seeing/providing threads the whole chapter.*
+
+### 2 · King James Version
+*(Public domain — verify against an authoritative KJV text before locking. Same key verses as above.)*
+
+1 And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am. 2 And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.
+
+6 And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together. 7 And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering? 8 And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.
+
+9 And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. 10 And he stretched forth his hand, and took the knife to slay his son. 11 And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I. 12 And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.
+
+13 And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. 14 And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen.
+
+### 3 · How the translations differ — and what's at stake
+
+Genesis 22:1–19 is short — nineteen verses — and almost unbearably compressed. God "tests" Abraham by ordering him to take Isaac, the son he waited a hundred years for, to a mountain and offer him as a burnt sacrifice. Abraham obeys without a recorded word of protest. He saddles up, travels three days, builds an altar, binds his son, and raises the knife — and only then does an angel stop him and a ram appear, caught in a thicket, to be killed instead. The story's power is in what it withholds. We are never told what Abraham feels, what he thinks, whether he sleeps on those three nights, or what he and Isaac say to each other on the way down the mountain — indeed, the text notably does not have them descend *together*, and Sarah is never mentioned again alive. The literary critic Erich Auerbach famously used this chapter as the model of biblical narrative's "fraught background": a style that leaves motive and feeling in shadow, forcing the reader to supply them and so to be implicated. Every tradition that touches this story is, in part, filling that silence.
+
+And this tight passage hides an unusual number of load-bearing words.
 
 - **"Tested" — nissah (22:1).** God *nissah* Abraham. It means to test, try, or prove — not to tempt toward evil. The distinction matters: the text frames the ordeal as a trial that reveals Abraham's faith, not a seduction. (Later theology, uneasy that God would need to "find out" anything, reads it as testing *for Abraham's sake* or the onlookers'.)
 - **"Your only son" — yeḥideḵa (22:2).** God says *take your son, your only one, whom you love, Isaac*. But Isaac is **not** Abraham's only son — Ishmael was born first. The strained phrase "your only son" has long signaled to scholars that the line presupposes Ishmael's earlier banishment, and may reflect a later stitch in the text. It also does something emotional: it piles up the reasons the command is monstrous — *your son, the only one, the beloved, the named one* — as if to make the demand as costly as words can.
@@ -30,7 +53,7 @@ This tight passage hides an unusual number of load-bearing words.
 - **The comma in 22:8.** Isaac asks where the lamb is, and Abraham answers, "**God will provide the lamb**, my son" — but the Hebrew can be heard two ways depending on where you pause: *God will provide the lamb — my son* (God will supply an animal) or, chillingly, *God will provide the lamb: my son* (the lamb *is* my son). The line's double edge is deliberate, and Christian readers hear a third layer in it (see the allegory section).
 - **"The LORD will provide" — YHWH-yireh (22:14).** Abraham names the place *YHWH-yireh*, "the LORD will provide" (or "will see"), and the narrator adds the proverb "on the mount of the LORD it shall be provided/seen." The verb *raʾah* ("see/provide") threads the whole chapter — Abraham "sees" the place, "sees" the ram — turning the story into a meditation on what, and whether, God sees.
 
-### 3 · Plain-English retelling
+### 4 · Plain-English retelling
 
 Some time later, God tests Abraham. He calls his name, and Abraham says, *Here I am.*
 
@@ -48,7 +71,7 @@ The voice comes a second time, with a promise: because you did this, because you
 
 Then Abraham goes back down to the servants, and they set off together for Beersheba. Isaac is not mentioned coming down. And Abraham lives at Beersheba.
 
-### 4 · What it means (plain-English interpretation)
+### 5 · What it means (plain-English interpretation)
 
 On its surface this is a story about **faith pushed to the edge of the unthinkable** — a man who trusts God so completely that he will surrender the one thing that makes the future possible, the son through whom all of God's promises to him are supposed to come true. That is the reading the text seems to endorse: "now I know that you fear God."
 
@@ -60,7 +83,7 @@ Second, it is a story about **the terror of obedience with no explanation**. God
 
 Third, it is a story about a **relationship that does not survive intact**. Abraham and Isaac go up "together" (the word repeats); they do not come down together in the text. Sarah appears in the very next verse — dead. Later readers noticed the wreckage and told stories to explain it. The binding costs something, even when the knife stops.
 
-### 5 · Why this matters
+### 6 · Why this matters
 
 This is the story Western culture reaches for whenever it wants to talk about the collision between **faith and ethics**, or between **duty to God and love of one's child**.
 

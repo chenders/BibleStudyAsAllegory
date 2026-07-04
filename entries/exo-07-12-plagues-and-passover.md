@@ -13,9 +13,9 @@
 
 ## THE READING
 
-### 1 · The text
+### 1 · Faithful translation
 
-*An English translation made directly from the Hebrew, kept close to the wording. This is the climax — the announcement of the last plague, the instituting of Passover, and the night itself. The earlier nine plagues are told in the retelling below; the hard words and the famous cruxes are opened up in the next section.*
+*A faithful translation made directly from the Hebrew, kept close to the wording. This is the climax — the announcement of the last plague, the instituting of Passover, and the night itself. The earlier nine plagues are told in the retelling below; the hard words and the famous cruxes are opened up in the next section.*
 
 **The last plague announced (11:4–7).** And Moses said: Thus says the LORD — About midnight I will go out into the midst of Egypt, and every firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne to the firstborn of the slave-girl who is behind the millstones, and all the firstborn of the cattle. And there shall be a great cry throughout all the land of Egypt, such as there has never been, nor ever shall be again. But against the people of Israel not even a dog shall growl, against neither man nor beast — so that you may know that the LORD makes a difference between Egypt and Israel.
 
@@ -33,7 +33,7 @@ This is a long narrative, not eight tight verses, but a handful of words carry a
 
 - **"Hardened his heart" hides a moving target.** Three different Hebrew verbs lie under the single English phrase: *ḥazaq* (to make *strong* or *firm*), *kaved* (to make *heavy*), and once *qashah* (to make *hard/severe*). And the grammar shifts as the story goes: through the first five blows **Pharaoh hardens his own heart**; from the sixth onward **the LORD hardens it for him**. Flatten all three verbs to "harden" and you lose the most-debated theological hinge in the book — does God override a free Pharaoh, or merely confirm a man already set in his refusal? (Taken up under *Interpretation*.)
 
-- **6:6's "the gods of Egypt."** At 12:12 the LORD says, "against all the gods of Egypt I will execute judgment" (KJV). The plagues are not just disasters; the text frames them as a *contest of gods* — Egypt's deities defeated on their own ground. Translations that soften "gods" to "rulers" lose the polemic that is the engine of the whole sequence.
+- **12:12's "the gods of Egypt."** At 12:12 the LORD says, "against all the gods of Egypt I will execute judgment" (KJV). The plagues are not just disasters; the text frames them as a *contest of gods* — Egypt's deities defeated on their own ground. Translations that soften "gods" to "rulers" lose the polemic that is the engine of the whole sequence.
 
 - **"A mixed multitude" and the numbers.** When Israel leaves (12:38) "a mixed multitude went up also with them" (KJV) — *'erev rav*, a crowd of uncertain origin, a detail later tradition found awkward. And the count of "about six hundred thousand men on foot, beside children" (12:37) implies a total in the millions — a figure modern scholars read as schematic or symbolic rather than a headcount (see *Is it historical?*).
 

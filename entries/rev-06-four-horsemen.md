@@ -13,9 +13,9 @@
 
 ## THE READING
 
-### 1 · The text
+### 1 · Faithful translation
 
-*An English translation made directly from the Greek, kept close to the wording so the choices that matter stay visible. The hard spots — the colours, the coins, the names — are opened up in the next section.*
+*A faithful translation made directly from the Greek, kept close to the wording so the choices that matter stay visible. The hard spots — the colours, the coins, the names — are opened up in the next section.*
 
 1 Then I watched as the Lamb opened the first of the seven seals, and I heard one of the four living creatures say, in a voice like thunder, "Come!" 2 And I looked, and there was a white horse. Its rider held a bow, and a victor's wreath was given to him, and he rode out conquering, and to conquer.
 

@@ -13,15 +13,33 @@
 
 ## THE READING
 
-### 1 · The text
+### 1 · Faithful translation
+*(Editorial translation from the Hebrew — to be checked against standard scholarly translations in production. Key excerpts; the passage runs 13:17–14:31 with the Song at 15:1–21.)*
 
-The unit runs from Israel's departure from Egypt (Exodus 13:17) to the far bank of the sea and the morning after (14:31), and then the poem that celebrates it (15:1–21). Two things are worth knowing before you read a word of it.
+**Moses: "stand still and see" (14:13–14).** And Moses said to the people, "Do not be afraid. Stand still and see the deliverance of the LORD, which he will work for you today; for the Egyptians whom you see today, you will never see again. 14 The LORD will fight for you, and you have only to be still."
 
-First, the story is told **twice** — once in prose (chapter 14) and once in verse (chapter 15, the "Song of the Sea"). The prose is a scene with stage directions: a wind, a wall of water, a night of waiting, chariots in the mud. The poem is a shout of triumph after the fact — no wind, no dry path, just God hurling horse and rider into the sea. They don't so much contradict as belong to different registers: report and anthem.
+**The east wind and the divided sea (14:21–22).** Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea† back with a strong east wind, and turned the sea into dry ground; and the waters were split apart. 22 The Israelites went into the midst of the sea on dry ground, the waters a wall for them on their right hand and on their left.
 
-Second, the "Red Sea" is a translation decision, not the plain sense of the Hebrew. The text says **yam suph** — literally "sea of reeds," a marshy, papyrus-fringed water, not the deep blue Red Sea of a modern map. The familiar "Red Sea" comes from the ancient Greek translation. That single choice has driven centuries of argument about where — and whether — this happened. Section 2 unpacks it.
+**The waters return on the Egyptians (14:26–28).** Then the LORD said to Moses, "Stretch out your hand over the sea, that the waters may come back over the Egyptians, over their chariots and their horsemen." 27 So Moses stretched out his hand over the sea, and at daybreak the sea returned to its steady flow, while the Egyptians were fleeing straight into it; and the LORD shook the Egyptians off into the midst of the sea. 28 The waters came back and covered the chariots and the horsemen — the whole army of Pharaoh that had followed them into the sea. Not one of them was left.
 
-### 2 · How the translations differ — and what's at stake
+**The Song of the Sea begins (15:1).** Then Moses and the Israelites sang this song to the LORD, saying: "I will sing to the LORD, for he has triumphed gloriously; horse and rider he has hurled into the sea."
+
+> † *14:21 — the body of water is named yam suph (13:18; 15:4), literally "Sea of Reeds" — a marshy, reed-fringed water (suph is the same word for the reeds baby Moses is hidden among in 2:3), not the deep blue Red Sea of a modern map. The familiar "Red Sea" comes from the third-century-BCE Greek Septuagint (erythra thalassa), which the Latin and English traditions followed. This layer renders the Hebrew "the sea" (hayyām); §3 unpacks what rides on that one word.*
+
+### 2 · King James Version
+*(Public domain — verify against an authoritative KJV text before locking. Same key excerpts as above.)*
+
+13 And Moses said unto the people, Fear ye not, stand still, and see the salvation of the LORD, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever. 14 The LORD shall fight for you, and ye shall hold your peace.
+
+21 And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided. 22 And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.
+
+26 And the LORD said unto Moses, Stretch out thine hand over the sea, that the waters may come again upon the Egyptians, upon their chariots, and upon their horsemen. 27 And Moses stretched forth his hand over the sea, and the sea returned to his strength when the morning appeared; and the Egyptians fled against it; and the LORD overthrew the Egyptians in the midst of the sea. 28 And the waters returned, and covered the chariots, and the horsemen, and all the host of Pharaoh that came into the sea after them; there remained not so much as one of them.
+
+15:1 Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.
+
+### 3 · How the translations differ — and what's at stake
+
+Before the individual words, two things are worth knowing about the passage as a whole. First, the story is told **twice** — once in prose (chapter 14) and once in verse (chapter 15, the "Song of the Sea"). The prose is a scene with stage directions: a wind, a wall of water, a night of waiting, chariots in the mud. The poem is a shout of triumph after the fact — no wind, no dry path, just God hurling horse and rider into the sea. They don't so much contradict as belong to different registers: report and anthem. Second, the "Red Sea" is a translation decision, not the plain sense of the Hebrew — the text says **yam suph**, "sea of reeds," a marshy, papyrus-fringed water, and that single choice (unpacked in the first entry below) has driven centuries of argument about where, and whether, this happened.
 
 **"Red Sea" or "Sea of Reeds"?** The Hebrew **yam suph** joins *yam* ("sea") and *suph* ("reeds," the same word used for the reeds baby Moses is hidden among in Exodus 2). So the natural rendering is **Sea of Reeds** — a shallow, reedy body of water. The third-century-BCE Greek Septuagint rendered it *erythra thalassa*, "Red Sea," and the Latin and English traditions followed. The result is that the King James "Red Sea" points readers to a large, deep sea, while the Hebrew points to a marsh. Modern scholars are split on which body of water is meant, and even whether *suph* here might carry a sense like "sea of the end" or "sea at the far edge," but the reeds reading is the majority one. This is not a trivial footnote: a reedy lake can plausibly be shoved back by a hard wind; the deep Red Sea cannot, which is exactly why the location debate and the historicity debate are the same debate.
 
@@ -31,7 +49,7 @@ Second, the "Red Sea" is a translation decision, not the plain sense of the Hebr
 
 **The Song's attribution (15:1, 15:21).** The long poem is credited to **Moses** in 15:1, but its opening couplet is credited to **Miriam** and the women in 15:20–21. A significant strand of scholarship argues the poem was originally *Miriam's* and was later re-credited to Moses — see *Text & Composition*.
 
-### 3 · Plain-English retelling
+### 4 · Plain-English retelling
 
 They leave in the dark, in a hurry, a whole people on the move with their animals and their half-packed bread — and God does not take them the short way, the coast road toward Canaan, because a short road runs straight into a war they aren't ready for. So they go the long way, down toward the wilderness, and a strange cloud goes ahead of them: a column of cloud by day, a column of fire by night, so they can march around the clock.
 
@@ -45,7 +63,7 @@ The Egyptians charge in after them. But now the wheels bog down, the chariots sl
 
 On the far shore Israel stands and watches the tide bring the bodies in, and something breaks open in them — fear, then trust. And Miriam the prophet takes up a hand-drum, and all the women follow her out dancing, and she sings the oldest song in the book back at the water: *Sing to the LORD, for he has triumphed gloriously — horse and rider he has thrown into the sea.*
 
-### 4 · What it means (plain-English interpretation)
+### 5 · What it means (plain-English interpretation)
 
 At the surface this is a rescue story with the volume turned all the way up: the powerless, cornered and about to be destroyed, are saved at the last possible second, and the superpower that enslaved them is undone by the very ground it charged across. But the story is doing three deliberate things under that.
 
@@ -55,7 +73,7 @@ It is a **birth**. Israel goes *into* the water a mob of frightened runaway slav
 
 And it is a **theological claim disguised as a weather report**. The point of the whole Exodus is that the God of a slave people beat the gods of the greatest empire on earth on their own ground and with their own element. The sea — which in the surrounding cultures was the chaos-monster the great gods had to defeat to create the world at all — here does exactly what Israel's God tells it to. That is the argument the story is really making.
 
-### 5 · Why this matters
+### 6 · Why this matters
 
 Even if you have never opened a Bible, you already live downstream of this story.
 
